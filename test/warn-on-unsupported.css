@@ -1,0 +1,15 @@
+.test-block-flow-root {
+  display: block flow-root;
+}
+
+.test-unsupported-block-ruby {
+  display: block ruby;
+}
+
+.test-flow-root-inline {
+  display: flow-root inline;
+}
+
+.test-unsupported-inline-flow-list-item {
+  display: inline flow list-item;
+}

@@ -1,0 +1,14 @@
+.test-inline-flex {
+  display: inline-flex;
+  display: inline flex;
+}
+
+.test-flex-inline {
+  display: inline-flex;
+  display: flex inline;
+}
+
+.test-block-flex {
+  display: flex;
+  display: block flex;
+}

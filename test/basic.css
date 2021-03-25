@@ -1,0 +1,11 @@
+.test-inline-flex {
+  display: inline flex;
+}
+
+.test-flex-inline {
+  display: flex inline;
+}
+
+.test-block-flex {
+  display: block flex;
+}
